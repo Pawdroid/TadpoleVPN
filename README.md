@@ -11,7 +11,7 @@ TadpoleVPN采用了先进的加密技术，可以有效地隐藏用户的真实I
 ## Windows 版本
 - [点击下载 Windows exe版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64-setup.exe)
 - [点击下载 Windows msi版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64_zh-CN.msi)
-- [点击下载 Windows 绿色版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/TadpoleVPN_1.1.0_x64_portable.zip)
+- [点击下载 Windows 绿色版](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/TadpoleVPN_1.1.0_x64_portable.zip)
 
 ## macOS 版本
 - [点击下载 macOS(Intel) 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64.dmg)
