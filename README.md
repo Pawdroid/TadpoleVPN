@@ -9,13 +9,13 @@ TadpoleVPN采用了先进的加密技术，可以有效地隐藏用户的真实I
 # TadpoleVPN 软件下载
 
 ## Windows 版本
-- [点击下载 Windows exe版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64-setup.exe)
-- [点击下载 Windows msi版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64_zh-CN.msi)
+- [点击下载 Windows exe 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64-setup.exe)
+- [点击下载 Windows msi 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64_zh-CN.msi)
 - [点击下载 Windows 绿色版](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/TadpoleVPN_1.1.0_x64_portable.zip)
 
 ## macOS 版本
-- [点击下载 macOS(Intel) 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64.dmg)
-- [点击下载 macOS(Aarch64) 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_aarch64.dmg)
+- [点击下载 macOS intel 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_x64.dmg)
+- [点击下载 macOS aarch64 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole.VPN_1.1.0_aarch64.dmg)
 
 ## Android 版本
 - [点击下载 Android 版本](https://github.com/Pawdroid/TadpoleVPN/releases/download/1.1.0/Tadpole_VPN-1.0.6-meta-arm64-v8a-release.apk)
