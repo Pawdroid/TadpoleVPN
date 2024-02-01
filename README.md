@@ -14,7 +14,8 @@ TadpoleVPN 是一款快速、安全的虚拟私人网络（VPN）软件，采用
 <a href="https://youtu.be/KxlElkoU8rw"><img width = "50%" height = "50%" alt="图片10"src="https://github.com/Pawdroid/TadpoleVPN/blob/main/static/youtube.png?raw=true"></img></a>
 </div>
 
-
+## 缺点
+夜间IP阻断率过高，建议白天使用。
 ## 下载链接
 
 ## Windows 版本
