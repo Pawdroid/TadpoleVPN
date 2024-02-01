@@ -10,7 +10,10 @@ TadpoleVPN 是一款快速、安全的虚拟私人网络（VPN）软件，采用
 - **快速连接**：一键连接功能让用户可以快速、方便地连接到最佳服务器。
 - **PikPak网盘加速**：采用专属通道加速PikPak网盘，流畅观影毫无压力。（小技巧：使用PikPak网盘云下载秒下任何种子，然后使用蝌蚪VPN蓝光无码观影，LU 3次以上）
 
-<img width = "50%" height = "50%" alt="图片10" align=center src="https://i.ytimg.com/vi/KxlElkoU8rw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AcwEgAKACooCDAgAEAEYciBFKFEwDw==&rs=AOn4CLAmsXQQV6eDwrqtsQBmzZkInPmupQ&quot"></img>
+<div align="center">
+<a href="https://youtu.be/KxlElkoU8rw"><img width = "50%" height = "50%" alt="图片10"src="https://i.ytimg.com/vi/KxlElkoU8rw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AcwEgAKACooCDAgAEAEYciBFKFEwDw==&rs=AOn4CLAmsXQQV6eDwrqtsQBmzZkInPmupQ&quot"></img></a>
+</div>
+
 
 ## 下载链接
 
