@@ -8,6 +8,10 @@ TadpoleVPN 是一款快速、安全的虚拟私人网络（VPN）软件，可以
 - **加密保护**：通过高级加密技术，TadpoleVPN 可以保护用户的网络通信，防止个人数据被窃取。
 - **跨平台支持**：TadpoleVPN 提供了 Windows、macOS、Android 和 Linux 版本，让用户可以在不同设备上使用。
 - **快速连接**：一键连接功能让用户可以快速、方便地连接到最佳服务器。
+- **PikPak网盘加速**：采用专属通道加速PikPak网盘，流畅观影毫无压力。（小技巧：使用PikPak网盘云下载秒下任何种子，然后使用蝌蚪VPN蓝光无码观影，LU 3次以上）
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KxlElkoU8rw?si=nS0mdWnGOMDtyE51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe> </div>
 
 ## 下载链接
 
